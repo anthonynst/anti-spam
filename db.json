@@ -1,0 +1,28 @@
+{
+  "rules": [
+  {
+    "id": 1,
+    "name": "Email Address"
+  },
+  {
+    "id": 2,
+    "name": "Email Domain"
+  },
+  {
+    "id": 3,
+    "name": "Keyword"
+  },
+  {
+    "id": 4,
+    "name": "Pattern"
+  },
+  {
+    "id": 5,
+    "name": "Sending Frequency"
+  },
+  { 
+    "id": 6,
+    "name": "Abuse Report"
+  }
+  ]
+}
