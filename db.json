@@ -1,27 +1,27 @@
 {
   "rules": [
   {
-    "rule": 1,
+    "id": 1,
     "type": "Email Address"
   },
   {
-    "rule": 2,
+    "id": 2,
     "type": "Email Domain"
   },
   {
-    "rule": 3,
+    "id": 3,
     "type": "Keyword"
   },
   {
-    "rule": 4,
+    "id": 4,
     "type": "Pattern"
   },
   {
-    "rule": 5,
+    "id": 5,
     "type": "Sending Frequency"
   },
   { 
-    "rule": 6,
+    "id": 6,
     "type": "Abuse Report"
   }
   ]
