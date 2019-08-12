@@ -1,28 +1,28 @@
 {
   "rules": [
   {
-    "id": 1,
-    "name": "Email Address"
+    "rule": 1,
+    "type": "Email Address"
   },
   {
-    "id": 2,
-    "name": "Email Domain"
+    "rule": 2,
+    "type": "Email Domain"
   },
   {
-    "id": 3,
-    "name": "Keyword"
+    "rule": 3,
+    "type": "Keyword"
   },
   {
-    "id": 4,
-    "name": "Pattern"
+    "rule": 4,
+    "type": "Pattern"
   },
   {
-    "id": 5,
-    "name": "Sending Frequency"
+    "rule": 5,
+    "type": "Sending Frequency"
   },
   { 
-    "id": 6,
-    "name": "Abuse Report"
+    "rule": 6,
+    "type": "Abuse Report"
   }
   ]
 }
