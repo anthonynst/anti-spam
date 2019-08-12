@@ -24,5 +24,22 @@
     "id": 6,
     "type": "Abuse Report"
   }
-  ]
+  ],
+  "threshold": [
+    {
+      "id": 1,
+      "level":"high"
+      "score": 5000
+    },
+    { 
+      "id": 2,
+      "level": "default"
+      "score": 2500
+    },
+    {
+      "id": 3,
+      "level": "low"
+      "score": 1000
+    }
+    ]
 }
