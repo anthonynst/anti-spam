@@ -1,5 +1,5 @@
 {
-   "rules":[
+   "scenario_rules":[
       {
          "id":1,
          "type":"Email Address"
@@ -25,7 +25,7 @@
          "type":"Abuse Report"
       }
    ],
-   "threshold":[
+   "scenario_threshold":[
       {
          "id":1,
          "level":"Upper threshold",
