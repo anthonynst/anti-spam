@@ -1,5 +1,5 @@
 {
-   "scenario":[
+   "threshold":[
       {
          "id":1,
          "level":"Upper threshold",
@@ -16,7 +16,7 @@
          "score":1000
       }
    ],
-   "scenario_rules":[
+   "rules":[
       {
          "id":1,
          "type":"Email Address"
