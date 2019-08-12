@@ -1,21 +1,4 @@
 {
-   "threshold":[
-      {
-         "id":1,
-         "level":"Upper threshold",
-         "score":5000
-      },
-      {
-         "id":2,
-         "level":"Default threshold",
-         "score":2500
-      },
-      {
-         "id":3,
-         "level":"Lower threshold",
-         "score":1000
-      }
-   ],
    "rules":[
       {
          "id":1,
@@ -42,4 +25,21 @@
          "type":"Abuse Report"
       }
    ],
+   "threshold":[
+      {
+         "id":1,
+         "level":"Upper threshold",
+         "score":5000
+      },
+      {
+         "id":2,
+         "level":"Default threshold",
+         "score":2500
+      },
+      {
+         "id":3,
+         "level":"Lower threshold",
+         "score":1000
+      }
+   ]
 }
