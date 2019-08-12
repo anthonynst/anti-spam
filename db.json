@@ -1,45 +1,45 @@
 {
-  "rules": [
-  {
-    "id": 1,
-    "type": "Email Address"
-  },
-  {
-    "id": 2,
-    "type": "Email Domain"
-  },
-  {
-    "id": 3,
-    "type": "Keyword"
-  },
-  {
-    "id": 4,
-    "type": "Pattern"
-  },
-  {
-    "id": 5,
-    "type": "Sending Frequency"
-  },
-  { 
-    "id": 6,
-    "type": "Abuse Report"
-  }
-  ],
-  "threshold": [
-    {
-      "id": 1,
-      "level": "high",
-      "score": 5000
-    },
-    { 
-      "id": 2,
-      "level": "default",
-      "score": 2500
-    },
-    {
-      "id": 3,
-      "level": "low",
-      "score": 1000
-    }
-    ]
+   "rules":[
+      {
+         "id":1,
+         "type":"Email Address"
+      },
+      {
+         "id":2,
+         "type":"Email Domain"
+      },
+      {
+         "id":3,
+         "type":"Keyword"
+      },
+      {
+         "id":4,
+         "type":"Pattern"
+      },
+      {
+         "id":5,
+         "type":"Sending Frequency"
+      },
+      {
+         "id":6,
+         "type":"Abuse Report"
+      }
+   ],
+   "threshold":[
+      {
+         "id":1,
+         "level":"high",
+         "score":5000
+      },
+      {
+         "id":2,
+         "level":"default",
+         "score":2500
+      },
+      {
+         "id":3,
+         "level":"low",
+         "score":1000
+      }
+   ]
 }
