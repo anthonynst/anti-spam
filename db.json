@@ -28,17 +28,17 @@
    "threshold":[
       {
          "id":1,
-         "level":"high",
+         "level":"Upper threshold",
          "score":5000
       },
       {
          "id":2,
-         "level":"default",
+         "level":"Default threshold",
          "score":2500
       },
       {
          "id":3,
-         "level":"low",
+         "level":"Lower threshold",
          "score":1000
       }
    ]
